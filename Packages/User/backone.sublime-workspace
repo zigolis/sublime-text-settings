@@ -1,0 +1,1556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"method	method"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"s",
+				"shift"
+			],
+			[
+				"c",
+				"click	click"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fon-s",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"does",
+				"does-not-follow"
+			],
+			[
+				"fol",
+				"follow-loading"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"not",
+				"not-following"
+			],
+			[
+				"follow",
+				"following"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"cli",
+				"clickToFollow"
+			],
+			[
+				"Bu",
+				"ButtonView"
+			],
+			[
+				"fa",
+				"factory"
+			],
+			[
+				"tri",
+				"trigger	trigger"
+			],
+			[
+				"sele",
+				"selectOption"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"data",
+				"dataId"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"has",
+				"hashClick"
+			],
+			[
+				"ha",
+				"hashClick"
+			],
+			[
+				"mouse",
+				"mouseenter	mouseenter"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"set",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"High",
+				"HighlightView"
+			],
+			[
+				"high",
+				"HighlightModel"
+			],
+			[
+				"ani",
+				"animateElement"
+			],
+			[
+				"anim",
+				"AnimView"
+			],
+			[
+				"P",
+				"ProfileView"
+			],
+			[
+				"pop",
+				"popover"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"se",
+				"selector"
+			],
+			[
+				"Or",
+				"OriginView"
+			],
+			[
+				"caro",
+				"carouselEl"
+			],
+			[
+				"ca",
+				"carouselEl"
+			],
+			[
+				"tooltip",
+				"tooltipEl"
+			],
+			[
+				"hig",
+				"HighlightView"
+			],
+			[
+				"Me",
+				"MenuForIEView"
+			],
+			[
+				"hE",
+				"HeaderView"
+			],
+			[
+				"html",
+				"htmlGenerated"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"q",
+				"qedu-schoolcensus-infrastructure"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"appen",
+				"appendTo"
+			],
+			[
+				"creatE",
+				"createElement"
+			],
+			[
+				"Header",
+				"HeaderBehavior"
+			],
+			[
+				"he",
+				"header-anchor"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"qedu-",
+				"qedu-menu"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"ap",
+				"appendTo"
+			],
+			[
+				"a",
+				"appendTo"
+			],
+			[
+				"eve",
+				"addEventListeners"
+			],
+			[
+				"on",
+				"onTextareaFocus"
+			],
+			[
+				"nav",
+				"nav-home"
+			],
+			[
+				"Edu",
+				"EducationalGroupUrlBuilder"
+			],
+			[
+				"tfoo",
+				"tfootRect"
+			],
+			[
+				"Sc",
+				"scrollTop"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"brod",
+				"border-right"
+			],
+			[
+				"t",
+				"tfoot	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"new",
+				"newPassword"
+			],
+			[
+				"sub",
+				"submitForm"
+			],
+			[
+				"su",
+				"submitForm"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"po",
+				"popover-title"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"foi",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"btn",
+				"btn-acting"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"Ac",
+				"ActingPanel"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"if",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"step",
+				"stepPhoto"
+			],
+			[
+				"st",
+				"stepPhoto"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"border-t",
+				"border-top-left-radius"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"sch",
+				"schoolId"
+			],
+			[
+				"school",
+				"schoolClassCollection"
+			],
+			[
+				"School",
+				"SchoolClassCollection"
+			],
+			[
+				"ci",
+				"cityId"
+			],
+			[
+				"schoo",
+				"school-class"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"S",
+				"StateView"
+			],
+			[
+				"Sta",
+				"StateCollection"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "method.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 357,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backbone.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Default (OSX).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 732,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Node.sublime-build",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"coo",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: hello"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: trim",
+				"Snippet: $.trim()"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"rmeove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ternjs",
+				"TernJS: Reload"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"show err",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"show error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zigolis/Sites/backbone/addy/01.html",
+		"/Users/zigolis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zigolis/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/zigolis/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/zigolis/Library/Application Support/Sublime Text 3/Packages/User/hello.sublime-snippet",
+		"/Users/zigolis/Sites/backbone/mvc/js/zebryfiedController.js",
+		"/Users/zigolis/Sites/backbone/mvc/js/zebryfiedView.js",
+		"/Users/zigolis/Sites/backbone/mvc/index.html",
+		"/Users/zigolis/Sites/backbone/mvc/css/example.css",
+		"/Users/zigolis/Sites/backbone/addy/demo.js",
+		"/Users/zigolis/Sites/qedu/config/gimme-cli.php",
+		"/Users/zigolis/Sites/qedu/vendor/bin/gimme",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Header/Assets/css/Header.less",
+		"/Users/zigolis/Sites/qedu/src/views/provabrasil/didactic/title.php",
+		"/Users/zigolis/Sites/qedu/public/css/provabrasil/survey/contextinfo.less",
+		"/Users/zigolis/Sites/qedu/public/css/provabrasil/didactic/contextinfo.less",
+		"/Users/zigolis/Sites/qedu/src/classes/View/ProvaBrasil/Survey/ContextInfo.php",
+		"/Users/zigolis/Sites/qedu/src/classes/View/ProvaBrasil/Didactic/ContextInfo.php",
+		"/Users/zigolis/Sites/qedu/docs/state/context.md",
+		"/Users/zigolis/Sites/qedu/src/tests/Model/State/Page/Dependence/ContextTest.php",
+		"/Users/zigolis/Sites/qedu/public/Vendor/modernizr/feature-detects/css-objectfit.js",
+		"/Users/zigolis/Sites/qedu/Capfile",
+		"/Users/zigolis/Sites/qedu/public/css/provabrasil/didactic/title.less",
+		"/Users/zigolis/Sites/qedu/vendor/phpunit/phpunit/tests/Framework/TestImplementorTest.php",
+		"/Users/zigolis/Sites/qedu/node_modules/bower/node_modules/mout/number/toInt.js",
+		"/Users/zigolis/Sites/qedu/node_modules/uglifycss/test.js",
+		"/Users/zigolis/Sites/qedu/public/js/provabrasil/didactic/fixed-main-block.coffee",
+		"/Users/zigolis/Sites/qedu/src/config/gimme.php",
+		"/Users/zigolis/Sites/qedu/src/classes/Controller/City/Index.php",
+		"/Users/zigolis/Sites/qedu/src/classes/Page/Didactic/Proficiency.php",
+		"/Users/zigolis/Sites/qedu/config/gimme.php",
+		"/Users/zigolis/Sites/qedu/src/tours/learning.json",
+		"/Users/zigolis/Sites/qedu/src/views/provabrasil/didactic/learning.php",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Home/LearningFocus.phtml",
+		"/Users/zigolis/Sites/qedu/vendor/phpdocumentor/phpdocumentor/features/generate-documentation/LogErrorsAndEvents.feature",
+		"/Users/zigolis/Sites/qedu/node_modules/less/test/css/lazy-eval.css",
+		"/Users/zigolis/Sites/qedu/externals/bootstrap/LICENSE",
+		"/Users/zigolis/Sites/qedu/src/views/helptexts/pages/proficiency.php",
+		"/Users/zigolis/Sites/qedu/src/classes/Model/DWProvaBrasil/Proficiency.php",
+		"/Users/zigolis/Sites/qedu/src/classes/Model/API/Proficiency.php",
+		"/Users/zigolis/Sites/qedu/src/classes/DwProvaBrasil/ProficiencyQuery.php",
+		"/Users/zigolis/Sites/qedu/src/classes/Controller/Api/Proficiency.php",
+		"/Users/zigolis/Sites/qedu/public/css/provabrasil/city/proficiency.less",
+		"/Users/zigolis/Sites/qedu/src/tours/proficiency.json",
+		"/Users/zigolis/Sites/qedu/config/deploy/prod.rb",
+		"/Users/zigolis/Sites/qedu/node_modules/less/test/browser/phantom-runner.js",
+		"/Users/zigolis/Sites/qedu/package.json",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Header/Header.phtml",
+		"/Users/zigolis/Sites/qedu/src/views/provabrasil/user/profile/profile.php",
+		"/Users/zigolis/Sites/qedu/public/css/provabrasil/explore/explore-responsive.less",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Home/Assets/css/Home.less",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Header/Assets/css/InnerHeader.less",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/Assets/css/Button.less",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/FollowInformation.phtml",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/Assets/js/FollowInformationView.js",
+		"/Users/zigolis/Sites/qedu/src/classes/Controller/Home/NewHome.php",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Home/Assets/css/SignUp.less",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/Assets/js/SetFollowTypeView.js",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/SetFollowType.phtml",
+		"/Users/zigolis/Sites/qedu/src/config/newsletters.php",
+		"/Users/zigolis/Sites/qedu/public/Vendor/modernizr/feature-detects/network-eventsource.js",
+		"/Users/zigolis/Sites/qedu/externals/google-api/NOTICE",
+		"/Users/zigolis/Sites/qedu/vendor/phpdocumentor/phpdocumentor/docs/.static/css/jquery.iviewer.css",
+		"/Users/zigolis/Sites/qedu/vendor/phpdocumentor/phpdocumentor/docs/.static/js/jquery-ui-1.8.2.custom.min.js",
+		"/Users/zigolis/Sites/qedu/.git/hooks/post-checkout",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/Assets/js/ButtonView.js",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/Assets/js/ButtonBehavior.js",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/ButtonNotLoggedIn.php",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/FollowInformation.php",
+		"/Users/zigolis/Sites/qedu/externals/bootstrap/less/buttons.less",
+		"/Users/zigolis/Sites/qedu/public/503_files/behavior-uservoice-widget.js",
+		"/Users/zigolis/Sites/qedu/bower.json",
+		"/Users/zigolis/Sites/qedu/vendor/bin/gimme.php",
+		"/Users/zigolis/Sites/qedu/vendor/meritt/gimme/bin/gimme",
+		"/Users/zigolis/Sites/qedu/vendor/meritt/komeritt/src/classes/View/HTMLPage.php",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/Button.phtml",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/Button.php",
+		"/Users/zigolis/Sites/qedu/vendor/phpmd/phpmd/src/test/resources/files/Rule/UnusedFormalParameter/testRuleNotAppliesToFormalParameterUsedInMethodCompoundVariable.php",
+		"/Users/zigolis/Sites/qedu/vendor/phpmd/phpmd/src/test/resources/files/Rule/UnusedFormalParameter/testRuleDoesNotApplyToFormalParameterUsedInCompoundExpression.php",
+		"/Users/zigolis/Sites/qedu/vendor/phpdocumentor/phpdocumentor/features/generate-documentation/inheritance/InheritParamTagsFromParentMethod.feature",
+		"/Users/zigolis/Sites/qedu/vendor/pdepend/pdepend/src/test/resources/files/Source/AST/ASTAssignmentExpression/testAssignmentExpressionFromPropertyAccess.php",
+		"/Users/zigolis/Sites/qedu/vendor/pdepend/pdepend/src/test/php/PDepend/Issues/KeepTypeInformationForPrimitivesIssue084Test.php",
+		"/Users/zigolis/Sites/qedu/vendor/meritt/gimme/src/Meritt/Gimme/Metadata/BuildInformation.php",
+		"/Users/zigolis/Sites/qedu/externals/devtools/views/devtools/info.php",
+		"/Users/zigolis/Sites/qedu/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/Fixtures/MultipleClassesInFile.php",
+		"/Users/zigolis/Sites/qedu/node_modules/bower/node_modules/mout/lang/isNull.js",
+		"/Users/zigolis/Sites/qedu/docs/index.md",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Follow/Assets/js/InformProfileView.js",
+		"/Users/zigolis/Sites/qedu/tmp/Projecte8905c2a62927a62824ba69857bc47e6ServiceContainer.php",
+		"/Users/zigolis/Sites/qedu/config/environment.local.xml.erb",
+		"/Users/zigolis/Sites/qedu/config/environment.local.xml",
+		"/Users/zigolis/Sites/qedu/config/environment.xml",
+		"/Users/zigolis/Sites/qedu/node_modules/less/test/css/extend-nest.css",
+		"/Users/zigolis/Sites/qedu/public/js/html2canvas/html2canvas.js",
+		"/Users/zigolis/Sites/qedu/src/views/helptexts/didactic/help-title-compare.php",
+		"/Users/zigolis/Sites/qedu/config/routes/help.php",
+		"/Users/zigolis/Sites/qedu/src/views/helptexts/didactic/help-title-learning.php",
+		"/Users/zigolis/Desktop/organizando-js/02/source-2/invoking3.js",
+		"/Users/zigolis/Desktop/organizando-js/02/source-2/invoking2.js",
+		"/Users/zigolis/Desktop/organizando-js/02/source-2/invoking.js",
+		"/Users/zigolis/Desktop/organizando-js/02/source-2/function_hosting.js",
+		"/Users/zigolis/Desktop/organizando-js/02/source-2/function_inside_function.js",
+		"/Users/zigolis/Desktop/organizando-js/02/source-2/function.js",
+		"/Users/zigolis/Desktop/organizando-js/01/source-1/function_hosting.js",
+		"/Users/zigolis/Desktop/organizando-js/01/source-1/function_inside_function.js",
+		"/Users/zigolis/Desktop/organizando-js/01/source-1/function.js",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Home/Assets/css/Highlight.less",
+		"/Users/zigolis/Desktop/organizando-js/05/todo-list-4/assets/javascripts/boot.js",
+		"/Users/zigolis/Desktop/organizando-js/05/todo-list-4/assets/javascripts/todo/application.js",
+		"/Users/zigolis/Desktop/organizando-js/05/todo-list-4/assets/javascripts/todo/enter_input.js",
+		"/Users/zigolis/Desktop/organizando-js/05/todo-list-4/assets/javascripts/todo/utils.js",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Header/Assets/js/GlobalSearchView.js",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Header/Assets/js/GlobalSearchBehavior.js",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Home/Assets/js/SignUpView.js",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Home/SignUp.php",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/Header/InnerHeader.php",
+		"/Users/zigolis/Sites/qedu/src/Meritt/QEdu/UI/SignUp/SignUp.php",
+		"/Users/zigolis/Downloads/todo-list-3/assets/javascripts/todo/application.js",
+		"/Users/zigolis/Downloads/todo-list-3/assets/javascripts/boot.js",
+		"/Users/zigolis/Downloads/todo-list-3/assets/javascripts/todo/utils.js",
+		"/Users/zigolis/Downloads/todo-list-2/assets/javascripts/todo/page_transition.js",
+		"/Users/zigolis/Downloads/todo-list-2/assets/javascripts/todo/enter_input.js",
+		"/Users/zigolis/Downloads/todo-list-2/assets/javascripts/todo/pages/home.js",
+		"/Users/zigolis/Downloads/todo-list-2/assets/javascripts/todo/task.js",
+		"/Users/zigolis/Downloads/todo-list-2/assets/javascripts/todo/tasks_repository.js",
+		"/Users/zigolis/Downloads/todo-list-2/assets/javascripts/todo/utils.js",
+		"/Users/zigolis/Downloads/todo-list-2/assets/javascripts/todo/application.js",
+		"/Users/zigolis/Downloads/todo-list-2/assets/javascripts/boot.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/zigolis/Sites/qedu",
+			"/Users/zigolis/Sites/qedu/src",
+			"/Users/zigolis/Sites/qedu/src/classes",
+			"/Users/zigolis/Sites/qedu",
+			"/Users/zigolis/Sites/qedu/src/Meritt",
+			"/Users/zigolis/Sites/provinha/src",
+			"/Users/zigolis/Sites/provinha/src/Meritt/Provinha/UI",
+			"/Users/zigolis/Sites/provabrasil",
+			"/Users/zigolis/Sites/provinha/src/Meritt/Provinha/UI",
+			"/Users/zigolis/Sites/provinha/src/Meritt/Provinha/UI/Administration",
+			"/Users/zigolis/Sites/provinha/src/Meritt/Provinha/UI",
+			"/Users/zigolis/Sites/provinha/src/Meritt/Provinha/UI/Header",
+			"/Users/zigolis/Sites/provinha/src/Meritt/Provinha/UI",
+			"/Users/zigolis/Sites/provinha/src/Meritt/Provinha/UI/Reports",
+			"/Users/zigolis/Sites/provinha/src/Meritt/Provinha/UI/Reports/LearningNeeds",
+			"/Users/zigolis/Sites/provinha/src/Meritt/Provinha/UI/Assets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alt",
+			"shift",
+			"slash",
+			"comment",
+			"/",
+			"super+/",
+			"color",
+			"\"\"",
+			"save",
+			"k\" ",
+			" \"k",
+			" \"",
+			"f2",
+			"command",
+			"toggle_side_bar",
+			"+\"],",
+			"\\",
+			"super+k",
+			"command",
+			"syntax",
+			"sintax",
+			"quotes",
+			"auto",
+			"header",
+			"qedu-user-following",
+			"A proporção de alunos com o aprendizado adequado é calculada com base no desempenho em",
+			"didac",
+			"anos de quase todas as escolas públicas são avaliados a cada dois anos pela Prova Brasil.",
+			"Os alunos de 5º e 9º anos de quase todas as escolas públicas são avaliados a cada dois anos pela Prova Brasil.",
+			"qedu-user-following",
+			"lucida",
+			"Lucida Grande",
+			"@font-family",
+			"qedu-user",
+			"Informações do seu perfil",
+			"input:focus {\nbackground-position: 656px -43px;\n}",
+			".qedu-container .logged input:hover, .qedu-container .logged input:focus",
+			"type",
+			"<span>",
+			"</figure>",
+			"<figure>",
+			"<li>",
+			"$el",
+			"data-id",
+			"requesting",
+			"loading",
+			"follow-button-loading",
+			"quotes",
+			"follow-button",
+			"ButtonView",
+			"subnav-section",
+			"Assets",
+			"0 0",
+			"\"l2\"",
+			"href=\"#\"",
+			"=\"#\"",
+			"\"#\"",
+			"<li><",
+			" +",
+			"Gimme_Need::instance()->use_behavior(",
+			"config",
+			"'",
+			"Header",
+			"button",
+			"Informações do seu perfil",
+			"3",
+			"<i class=\"glyphicon glyphicon-ok icon-white\"></i>",
+			"“",
+			"educacenso-group educacenso-",
+			"class",
+			"O Censo Escolar é aplicado anualmente em todo o Brasil, coletando informações sobre diversos aspectos das escolas brasileiras",
+			"Resultados do Censo escolar 2011",
+			"7",
+			"chupaFernandinho",
+			"Document",
+			"getExpectedDescription",
+			"getDescriptionShouldReturnRightDescription",
+			"getPageDescription",
+			"text",
+			"Backbone.$",
+			"=>",
+			"blockEl",
+			"FocusSearch",
+			"focusSearch",
+			"FocusSearch",
+			"highligh",
+			"hightligh",
+			"HeaderView",
+			"dropdown-toggle",
+			"Marcas e mídia",
+			".distortion-filter-localization",
+			".dropdown-toggle.distortion-filter-localization",
+			"ccc",
+			"224px",
+			"F",
+			"build_nse",
+			"render",
+			"tranform",
+			"zig",
+			"225",
+			"zig4",
+			"180",
+			"135",
+			"#CEC5BC",
+			".7",
+			"-45",
+			"-",
+			"10",
+			"all",
+			"1s",
+			"text {",
+			"</strong>",
+			"<strong>",
+			"qedu-search",
+			"anti",
+			"setDocument",
+			"assert(",
+			"/>\n",
+			"mcc",
+			"'",
+			"id=\"qedu-news-block\"",
+			"id=\"signup\"",
+			"id=\"who-is-using\"",
+			"id=\"qedu-news-block\"",
+			"id=\"learning-focus\"",
+			" systemicon-medium",
+			"systemicon-sad",
+			"volume-up"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "method.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								44
+							]
+						],
+						"settings":
+						{
+							"default_extension": "sublime-snippet",
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "backbone.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"default_extension": "sublime-snippet",
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Default (OSX).sublime-keymap",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								732,
+								732
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 358.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "backone.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"addy/01.html"
+			],
+			[
+				"ze",
+				"mvc/js/zebryfiedController.js"
+			],
+			[
+				"gimme",
+				"src/config/gimme.php"
+			],
+			[
+				"contextin",
+				"src/views/provabrasil/didactic/contextinfo.php"
+			],
+			[
+				"title.php",
+				"src/views/provabrasil/didactic/title.php"
+			],
+			[
+				"scrollbar.less",
+				"public/css/provabrasil/scrollbar.less"
+			],
+			[
+				"fixed-main-block.coffee",
+				"public/js/provabrasil/didactic/fixed-main-block.coffee"
+			],
+			[
+				"proficienc",
+				"src/classes/Page/Didactic/Proficiency.php"
+			],
+			[
+				"newhom",
+				"src/classes/Controller/Home/NewHome.php"
+			],
+			[
+				"buttonno",
+				"src/Meritt/QEdu/UI/Follow/ButtonNotLoggedIn.php"
+			],
+			[
+				"environment.local",
+				"config/environment.local.xml.erb"
+			],
+			[
+				"htmlpage",
+				"vendor/meritt/komeritt/src/classes/View/HTMLPage.php"
+			],
+			[
+				"buttonview",
+				"src/Meritt/QEdu/UI/Follow/Assets/js/ButtonView.js"
+			],
+			[
+				"gimm",
+				"config/gimme.php"
+			],
+			[
+				"educacenso",
+				"src/classes/Entities/AggregatedEducacenso/Response.php"
+			],
+			[
+				"highlight.le",
+				"Sites/qedu/src/Meritt/QEdu/UI/Home/Assets/css/Highlight.less"
+			],
+			[
+				"signuptest",
+				"Sites/qedu/test/Meritt/QEdu/UI/Home/SignUpTest.php"
+			],
+			[
+				"hometest",
+				"Sites/qedu/test/Meritt/QEdu/UI/Home/HomeTest.php"
+			],
+			[
+				"highlighttest",
+				"Sites/qedu/test/Meritt/QEdu/UI/Home/HighlightTest.php"
+			],
+			[
+				"simplehtml",
+				"Sites/qedu/src/Meritt/QEdu/UI/SimpleHTMLPage.php"
+			],
+			[
+				"simplepleh",
+				"Sites/provinha/src/Meritt/Provinha/UI/SimpleHTMLPage/SimpleHTMLPage.phtml"
+			],
+			[
+				"gim",
+				"Sites/qedu/config/gimme.php"
+			],
+			[
+				"css/provabrasil/dashboar",
+				"qedu/public/css/provabrasil/dashboard/index.less"
+			],
+			[
+				"explore",
+				"qedu/public/css/provabrasil/explore/explore-responsive.less"
+			],
+			[
+				"meritt/provinha/ui/assets/progressbar/progressbar",
+				"provinha/src/Meritt/Provinha/UI/Assets/ProgressBar/ProgressBar.js"
+			],
+			[
+				"header.less",
+				"qedu/public/css/qedu/header/header.less"
+			],
+			[
+				"qedu/footer",
+				"qedu/src/views/provabrasil/footer/footer.php"
+			],
+			[
+				"js/provabrasil/birthday/behavior-page-who-uses.coffee",
+				"qedu/public/js/provabrasil/birthday/behavior-page-who-uses.coffee"
+			],
+			[
+				"qedu/gimme",
+				"qedu/src/config/gimme.php"
+			],
+			[
+				"htmlp",
+				"provinha/src/Meritt/Provinha/UI/HTMLPage.php"
+			],
+			[
+				"css/provabrasil/shitie/topbar.less",
+				"qedu/public/css/provabrasil/shitie/topbar.less"
+			],
+			[
+				"backbone.mform",
+				"www/js/backbone.mform/backbone.mform.coffee"
+			],
+			[
+				"bowe",
+				"bower.json"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"gimme.php",
+				"config/gimme.php"
+			],
+			[
+				"requirejs.php",
+				"src/Meritt/Provinha/Application/Controllers/Infra/RequireJS.php"
+			],
+			[
+				"statustypingschoolsrenderertest",
+				"test/Meritt/Provinha/UI/Administration/Typing/StatusTypingSchoolsRendererTest.php"
+			],
+			[
+				"header",
+				"src/Meritt/Provinha/UI/Assets/Reports/Header.less"
+			],
+			[
+				"htmlpa",
+				"src/Meritt/Provinha/UI/HTMLPage.phtml"
+			],
+			[
+				"areacompo",
+				"src/Meritt/Provinha/UI/Administration/Selector/AreaComponent.php"
+			],
+			[
+				"urlbuil",
+				"src/Meritt/Provinha/UI/EducationalGroupUrlBuilder.php"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"assets/mixins.less",
+				"src/Meritt/Provinha/UI/Assets/Mixins.less"
+			],
+			[
+				"system",
+				"src/Meritt/Provinha/UI/Assets/Fonts/SystemIcon.css"
+			],
+			[
+				"mixins.less",
+				"src/Meritt/Provinha/UI/Assets/Mixins.less"
+			],
+			[
+				"systemicon",
+				"src/Meritt/Provinha/UI/Assets/Fonts/SystemIcon.css"
+			],
+			[
+				"spin",
+				"src/Meritt/Provinha/UI/Assets/Vendor/spin/spin.js"
+			],
+			[
+				"schooldashboardtyping",
+				"src/Meritt/Provinha/UI/Administration/Typing/SchoolDashboardTyping.php"
+			],
+			[
+				"footer",
+				"src/Meritt/Provinha/UI/HTMLPage/Assets/css/Footer.less"
+			],
+			[
+				"header.css",
+				"src/Meritt/Provinha/UI/Header/css/PrincipalBar.less"
+			],
+			[
+				"browsernotsupportederrortest.php",
+				"test/Meritt/Provinha/UI/BrowserNotSupportedError/BrowserNotSupportedErrorTest.php"
+			],
+			[
+				"footer.js",
+				"src/Meritt/Provinha/UI/HTMLPage/Assets/js/Footer.js"
+			],
+			[
+				"learningneedsreporttest",
+				"test/Meritt/Provinha/UI/Reports/SchoolClass/LearningNeeds/LearningNeedsReportTest.php"
+			],
+			[
+				"emptyschoolclasstest.php",
+				"test/Meritt/Provinha/UI/SchoolClass/Typing/EmptySchoolClassTest.php"
+			],
+			[
+				"learningneedsreporttest.php",
+				"test/Meritt/Provinha/UI/Reports/LearningNeeds/LearningNeedsReportTest.php"
+			],
+			[
+				"literacyreporttest.php",
+				"test/Meritt/Provinha/UI/Reports/Literacy/LiteracyReportTest.php"
+			],
+			[
+				"literacyreporttest",
+				"test/Meritt/Provinha/UI/Reports/Literacy/LiteracyReportTest.php"
+			],
+			[
+				"indexviewtest.php",
+				"test/Meritt/Provinha/UI/Index/IndexViewTest.php"
+			],
+			[
+				"userinterfacetestcase.php",
+				"src/Meritt/Provinha/Infra/Tests/UserInterfaceTestCase.php"
+			],
+			[
+				"htmlpagetest",
+				"test/Meritt/Provinha/UI/HTMLPageTest.php"
+			],
+			[
+				"educationnetworkdashboardtypingtest",
+				"test/Meritt/Provinha/UI/Administration/Typing/EducationNetworkDashboardTypingTest.php"
+			],
+			[
+				"userinterfacetestcase",
+				"src/Meritt/Provinha/Infra/Tests/UserInterfaceTestCase.php"
+			],
+			[
+				"popo",
+				"src/Meritt/Provinha/UI/Assets/PopoverHider/PopoverHider.js"
+			],
+			[
+				"html",
+				"src/Meritt/Provinha/UI/HTMLPage.phtml"
+			],
+			[
+				"simp",
+				"src/Meritt/Provinha/UI/SimpleHTMLPage/SimpleHTMLPage.phtml"
+			],
+			[
+				"syste",
+				"src/Meritt/Provinha/UI/Assets/Fonts/SystemIcon.css"
+			],
+			[
+				"head",
+				"src/Meritt/Provinha/UI/Header/css/Header.less"
+			],
+			[
+				"variables",
+				"src/Meritt/Provinha/UI/Assets/Variables.less"
+			],
+			[
+				"dashboardview.php",
+				"src/Meritt/Provinha/UI/User/Dashboard/DashboardView.php"
+			],
+			[
+				"dashboardview",
+				"src/Meritt/Provinha/UI/User/Dashboard/DashboardView.phtml"
+			],
+			[
+				"dashboardtest.php",
+				"test/Meritt/Provinha/Application/Controllers/User/DashboardTest.php"
+			],
+			[
+				"g",
+				"config/gimme.php"
+			],
+			[
+				"assets/variables.less",
+				"src/Meritt/Provinha/UI/Assets/Variables.less"
+			],
+			[
+				"lateral",
+				"src/Meritt/Provinha/UI/SchoolClass/Typing/LateralBarSteps.phtml"
+			],
+			[
+				"contentresult.less",
+				"src/Meritt/Provinha/UI/Reports/LearningNeeds/Assets/css/ContentResult.less"
+			],
+			[
+				"popoverhider.js",
+				"src/Meritt/Provinha/UI/Assets/js/PopoverHider.js"
+			],
+			[
+				"base",
+				"src/Meritt/Provinha/UI/Reports/Base.php"
+			],
+			[
+				"literacyreport",
+				"src/Meritt/Provinha/UI/Reports/Literacy/LiteracyReport.php"
+			],
+			[
+				"literacy/literacyreporttest.php",
+				"test/Meritt/Provinha/UI/Reports/Literacy/LiteracyReportTest.php"
+			],
+			[
+				"/educationnetworkdashboardtypingtest.php",
+				"test/Meritt/Provinha/UI/Administration/Typing/EducationNetworkDashboardTypingTest.php"
+			],
+			[
+				"variables.less",
+				"src/Meritt/Provinha/UI/Assets/Variables.less"
+			],
+			[
+				"entity/schoolclasstyping",
+				"src/Meritt/Provinha/Domain/Entity/SchoolClassTyping.php"
+			],
+			[
+				"varia",
+				"node_modules/less/test/less/variables.less"
+			],
+			[
+				"schoolclasstyping.less",
+				"src/Meritt/Provinha/UI/Administration/Typing/Assets/css/SchoolClassTyping.less"
+			],
+			[
+				"schooltypingadministration",
+				"src/Meritt/Provinha/Application/Controllers/Administration/Typing/SchoolTypingAdministration.php"
+			],
+			[
+				"route",
+				"config/routes.xml"
+			],
+			[
+				"filtersauthenti",
+				"src/Meritt/Provinha/Application/Filters/Authentication.php"
+			],
+			[
+				"browservali",
+				"src/Meritt/Provinha/Application/Filters/BrowserValidation.php"
+			],
+			[
+				"rou",
+				"config/routes.xml"
+			],
+			[
+				"servic",
+				"config/services.xml"
+			],
+			[
+				"header.le",
+				"src/Meritt/Provinha/UI/Header/css/Header.less"
+			],
+			[
+				"error",
+				"src/Meritt/Provinha/Infra/ErrorHandler.php"
+			],
+			[
+				"receiver",
+				"vendor/meritt/gimme/src/Meritt/Gimme/UserInterface/Receiver.php"
+			],
+			[
+				"meritt/provinha/ui/assets/domain/collection/school",
+				"src/Meritt/Provinha/UI/Assets/Domain/Collection/School.js"
+			],
+			[
+				"meritt/provinha/ui/assets/domain/collection/municipaleducationnetwork",
+				"src/Meritt/Provinha/UI/Assets/Domain/Collection/MunicipalEducationNetwork.js"
+			],
+			[
+				"navbar.le",
+				"src/Meritt/Provinha/UI/Header/css/NavBar.less"
+			],
+			[
+				"ormstate",
+				"src/Meritt/Provinha/Domain/Repository/Orm/StateRepository.php"
+			],
+			[
+				"requirejs.p",
+				"src/Meritt/Provinha/Application/Controllers/Infra/RequireJS.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

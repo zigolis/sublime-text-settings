@@ -1,0 +1,4 @@
+{
+    "cmd": ["/usr/local/bin/node", "--trace-opt", "--trace-deopt", "$file"],
+    "selector": "source.js"
+}

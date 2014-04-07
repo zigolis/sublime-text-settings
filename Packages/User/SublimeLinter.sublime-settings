@@ -1,0 +1,9 @@
+{
+	"user":
+	{
+		"linters":
+		{
+		},
+		"show_errors_on_save": true
+	}
+}

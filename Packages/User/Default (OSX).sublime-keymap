@@ -1,0 +1,13 @@
+[
+    {"keys": ["super+back_slash"], "command": "toggle_side_bar"},
+
+    {"keys": ["super+ctrl+3"], "command": "next_bookmark"},
+    {"keys": ["super+ctrl+1"], "command": "prev_bookmark"},
+    {"keys": ["super+ctrl+2"], "command": "toggle_bookmark"},
+    {"keys": ["super+ctrl+4"], "command": "clear_bookmarks"},
+    {"keys": ["super+ctrl+5"], "command": "select_all_bookmarks" },
+
+    {"keys": ["super+shift+h"], "command": "set_file_type","args": {"syntax": "Packages/HTML/HTML.tmLanguage"}},
+    {"keys": ["super+shift+c"], "command": "set_file_type","args": {"syntax": "Packages/CSS/CSS.tmLanguage"}},
+    {"keys": ["super+shift+j"], "command": "set_file_type","args": {"syntax": "Packages/JavaScript/JavaScript.tmLanguage"}}
+]

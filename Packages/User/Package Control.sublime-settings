@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"auto-save",
+		"Autoprefixer",
+		"ColorPicker",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"jQuery",
+		"JSHint",
+		"LESS",
+		"LiveStyle",
+		"Nettuts+ Fetch",
+		"SideBarEnhancements",
+		"SublimeLinter"
+	]
+}
